@@ -1,3 +1,1 @@
 # Spatiotemporal-Domestic-Heat-Demand-Modelling
-
-This repository is about the spatiotemporal aggregate domestic heat demand modelling at clustered local authority areas level which uses the outdoor air temperature, and number of dwellings to estimate the heat demand profiles with gas boilers, heat pumps and district heating networks. It uses data-driven regression models derived from the field trial data set (EDRP and RHPP), GSP level dwellings from future energy scenarios 2022 (Leading the way) and dwellings at the local authority area level obtained for England, Scotland and Wales as described in the notebook.
