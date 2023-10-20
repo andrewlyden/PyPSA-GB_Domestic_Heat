@@ -1,0 +1,29 @@
+# REMA requirements yaml file for creating conda environments
+
+name: REMA
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - scikit-learn
+  - python=3.8.5
+  - pandas=1.3.2
+  - scipy=1.5.2
+  - notebook
+  - python-dotenv
+  - numpy
+  - matplotlib=3.7.0
+  - seaborn
+  - cartopy=0.21
+  - shapely=2.0.1
+  - imageio
+  - ipykernel
+  - requests
+  - openpyxl
+  - pip
+  - geopandas
+  - geopy
+
+  - pip:
+    - osgb
+    - meteostat
